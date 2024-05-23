@@ -1,1 +1,1 @@
-print("Git is awesome!")
+print(input("Please insert text to print: "))
