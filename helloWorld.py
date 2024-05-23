@@ -1,1 +1,1 @@
-print(input("Please insert text to print: "))
+print(input("Please insert text to print: ")) # Takes and prints user input
