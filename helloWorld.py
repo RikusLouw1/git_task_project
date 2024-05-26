@@ -1,2 +1,1 @@
-to_print = input("Please insert text to print: ") # Takes user input
-print(to_print) # Prints user input
+print(input("Please insert text to print: ")) # Takes and prints user input
